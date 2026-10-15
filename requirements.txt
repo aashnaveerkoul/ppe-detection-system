@@ -1,0 +1,6 @@
+   ultralytics
+   streamlit
+   opencv-python
+   numpy
+   pillow
+   pandas

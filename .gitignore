@@ -1,0 +1,5 @@
+   venv/
+   runs/
+   __pycache__/
+   temp_video.mp4
+   .env
